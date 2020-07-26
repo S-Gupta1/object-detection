@@ -1,0 +1,6 @@
+we will use google tesseract open source ocr language master that can help us to detect more than 100 languages.
+Also we r going to use object detection tensorflow api.
+the object detection module api is located in folder inference graph inside the object detection folder where our script and tensorflow obj detection api resides we have stored it in variable model name = nfrence graph.
+and we just want to read 2 classes from that folder containing no. of classes
+
+At first w create tensorflow graph tf.graph
